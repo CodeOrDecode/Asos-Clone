@@ -39,7 +39,7 @@ ASOS is a British online fast-fashion and cosmetic retailer. The company was fou
 
 [Deploy Link](https://construct-week-asos-clone.netlify.app/)
 <br>
-[Presentation Link](https://drive.google.com/file/d/1vFzE7WkoRBidnPSmbJ1cATqWxnz56mA-/view?usp=drive_link)
+[Presentation Link](https://drive.google.com/file/d/1VUCvPnLsopPaQZRoDkemBy8uptLgwIWg/view?usp=sharing)
 
 ## Tech Stack
 
